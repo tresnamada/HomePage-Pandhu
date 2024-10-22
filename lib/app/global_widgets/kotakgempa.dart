@@ -96,7 +96,7 @@ class Kotakgempa extends StatelessWidget {
               ],
             ),
           ),
-        ),
+         ),
         Padding(
           padding: const EdgeInsets.symmetric(vertical: 15, horizontal: 12),
           child: Container(
